@@ -1,2 +1,2 @@
-this is the first line. first commit !
-this is a second line of commit from new-feature branch
+jfjajsdfj
+this is a second line of commit from new-feature
